@@ -20,7 +20,6 @@
 - 🎓 B.Tech CSE @ **JMIT Radaur** | GPA: **8.0 / 10.0** (Expected May 2027)
 - 🔭 Currently building projects with the **MERN Stack**
 - 🧠 Grinding **DSA in C++** — solved **100+ problems on LeetCode**
-- 🎯 Goal: **PSU via GATE** | Campus Placements as backup
 - 📈 Side interest: **Stock Markets & F&O Trading**
 - 💬 Ask me about: **React.js, JavaScript, C++, DSA**
 - 📫 Reach me at: **rupendersingh755@gmail.com**
